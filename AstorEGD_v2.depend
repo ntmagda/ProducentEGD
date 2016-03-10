@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1457526997 source:c:\users\kamil makarowski\desktop\commegd\reflectegd.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1457527606 source:e:\studia\viii semestr\zintegrowane systemy sterowania\astoregd_v2\wysylanieegd.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1457569928 source:e:\plc\astoregd_v2\wysylanieegd.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
